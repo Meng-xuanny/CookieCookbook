@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8316BB29-69DF-44F0-97EA-75FF7E2C87EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App/RecipesConsoleUserInteraction.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="App/RecipesConsoleUserInteraction.cs" Line="45" Column="59" />
+      <File FileName="Recipes/Ingredients/Ingredient.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CookieCookbook" expanded="True">
+            <Node name="CookieCookbook" expanded="True">
+              <Node name="App" expanded="True">
+                <Node name="RecipesConsoleUserInteraction.cs" selected="True" />
+              </Node>
+              <Node name="Recipes" expanded="True">
+                <Node name="Ingredients" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CookieCookbook PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

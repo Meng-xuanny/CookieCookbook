@@ -1,0 +1,15 @@
+/Users/mengxuan/Downloads/CookieCookbook/bin/Debug/net6.0/CookieCookbook
+/Users/mengxuan/Downloads/CookieCookbook/bin/Debug/net6.0/CookieCookbook.deps.json
+/Users/mengxuan/Downloads/CookieCookbook/bin/Debug/net6.0/CookieCookbook.runtimeconfig.json
+/Users/mengxuan/Downloads/CookieCookbook/bin/Debug/net6.0/CookieCookbook.dll
+/Users/mengxuan/Downloads/CookieCookbook/bin/Debug/net6.0/CookieCookbook.pdb
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/CookieCookbook.csproj.AssemblyReference.cache
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/CookieCookbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/CookieCookbook.AssemblyInfoInputs.cache
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/CookieCookbook.AssemblyInfo.cs
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/CookieCookbook.csproj.CoreCompileInputs.cache
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/CookieCookbook.dll
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/refint/CookieCookbook.dll
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/CookieCookbook.pdb
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/CookieCookbook.genruntimeconfig.cache
+/Users/mengxuan/Downloads/CookieCookbook/obj/Debug/net6.0/ref/CookieCookbook.dll
